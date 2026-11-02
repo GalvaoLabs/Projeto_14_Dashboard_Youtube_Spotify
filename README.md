@@ -1,6 +1,6 @@
 # Dashboard Musical — Análise Spotify & YouTube
 
-Projeto desenvolvido em Python como atividade prática proposta pelo professor **Mateus Sousa** ([@msousa07](https://github.com/msousa07)). A implementação do dashboard foi realizada por **Miguel Henrique S. Galvão** ([@GalvaoLabs](https://github.com/GalvaoLabs)).
+Projeto desenvolvido em Python como atividade prática proposta pelo professor **Mateus Sousa** ([@msousa07](https://github.com/msousa07)). A implementação do dashboard foi realizada por **Miguel Henrique** ([@GalvaoLabs](https://github.com/GalvaoLabs)).
 
 A atividade teve como objetivo aplicar conceitos de manipulação, análise e visualização de dados utilizando uma base de informações musicais do Spotify e do YouTube.
 
